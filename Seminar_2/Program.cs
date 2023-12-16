@@ -93,6 +93,6 @@ int result = num/100;
 Console.WriteLine(result);
 }
 else
-{
-Console.WriteLine("Число не подходит");
-}
+    {
+        Console.WriteLine("Число не подходит");
+    }
