@@ -154,6 +154,7 @@
 
 System.Console.WriteLine("Введите количество строк в массиве: ");
 int x = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine();
 
 int[,] array = new int[x,x];
 
